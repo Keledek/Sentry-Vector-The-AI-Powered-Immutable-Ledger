@@ -1,3 +1,10 @@
+![Build](https://img.shields.io/badge/Build-Stable-brightgreen)
+![Version](https://img.shields.io/badge/Version-1.2.0-blue)
+![Language](https://img.shields.io/badge/C%2B%2B-17-red)
+![Python](https://img.shields.io/badge/Python-3.10%2B-blue)
+![Security](https://img.shields.io/badge/Security-Cryptographic-purple)
+![Status](https://img.shields.io/badge/Status-Active-orange)
+![License](https://img.shields.io/badge/License-MIT-green)
 # 🛡️ Sentry-Vector: Secure AI-Ledger Engine
 **Author:** Sounak Chatterjee  
 **Version:** 1.2.0 (Stable)
@@ -57,4 +64,3 @@ python3 tamper_test.py
 - **v1.5:** Distributed consensus (p2p) for multi-node ledgers.
 
 ---
-**GOAT Status:** Developed with the precision of a MESSI free-kick. ⚽
